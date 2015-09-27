@@ -50,7 +50,7 @@ EXAMPLES
       e.ip_class    = "PRIVATE"
     end
 
-    cal.publish
+    cal.to_ical
 
 #### Or you can make events like this ####
 
